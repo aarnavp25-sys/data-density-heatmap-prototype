@@ -1,19 +1,15 @@
-# Data Density Heatmap Prototype
+# Data Density Heatmap (GSoC Prototype)
 
-This is an early prototype built for my GSoC 2026 proposal.
+👉 **Live Demo:** [https://your-app.vercel.app](https://your-app.vercel.app)
 
-## Features
-- 10x10 heatmap grid
-- Density-based color scaling (0–100%)
-- Interactive tooltip on hover
-- Built using D3.js + React
+## Screenshot (IMPORTANT)
+*(Add image here)*
 
-## Screenshot
-(Add image here)
+## What works
+- Heatmap rendering
+- Tooltip
+- Sample dataset
+- Basic interactivity
 
-## Tech Stack
-- React
-- D3.js
-
-## Purpose
-This prototype validates the visualization approach for a Data Density Heatmap application that will integrate with GraphQL datasets.
+## Tech stack
+- React + D3
