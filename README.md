@@ -1,6 +1,7 @@
 # Data Density Heatmap (GSoC Prototype)
 
 This prototype serves to validate the foundational visualization approach for the **Data Density Heatmap** application, proposed for Google Summer of Code (GSoC) 2026 under the **Data for the Common Good** initiative.
+Live Demo: https://aarnavp25-sys.github.io/...
 
 ## Screenshot
 
